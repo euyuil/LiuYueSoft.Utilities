@@ -4,6 +4,11 @@
         <TargetFramework>netstandard2.1</TargetFramework>
         <RootNamespace>LiuYueSoft.Utilities</RootNamespace>
         <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+        <PackageId>LiuYueSoft.Utilities</PackageId>
+        <Version>0.1.0</Version>
+        <Authors>Liu Yue</Authors>
+        <Company>LiuYueSoft</Company>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     </PropertyGroup>
 
     <ItemGroup>
